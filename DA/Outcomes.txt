@@ -1,0 +1,6 @@
+1. Students will be able to understand the statistical analysis methods.
+2. Students will be able to understand the concepts of Regression and Machine
+Learning
+3. Students will be able to Compare and contrast Supervised and Unsupervised
+learning
+4. Students will be able to understand the major challenges related to Big Data Analytics
