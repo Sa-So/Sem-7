@@ -89,6 +89,7 @@ Squiggly line = overfit = large var = low bias
 Straight line = underfit = low var = high bias
 
 **Regularization , boosting and bagging** are used to find the sweet spot b/w simple and complex model .
+bagging in random forest
 
 ---
 # SVMs
@@ -109,24 +110,59 @@ Straight line = underfit = low var = high bias
         * 1D line = 1D hyperplane
         * SVC can handle overlapping classifications !
     * *SVM*
-        * for data with too much overlap and eg. dosage and patients which got cured
-        * they get cured when dosage is just right and not when high or low
-        * We add a y axis with dosage^2 when x-axis has dosage and then do what we did in SVC
+        * for data with too much overlap 
+           * eg. dosage and patients which got cured
+           * they get cured when dosage is just right and not when high or low
+           * We add a y axis with dosage^2 when x-axis has dosage and then do what we did in SVC
+        * basic idea :
            1. start with data in low dimention
            2. Move data in higher dimention
            3. SVC!
         - SVM's use kernel functions to systematically find SVC in higher dimentions
-        - Polynomial kernel has parameter d (degree of polynomial)
-        - pk increases dimentians & d!
-        - in 1D pk finds relationship b/w every pair of observations
-        - Again we can find a good value of d using cross validation !
+           - Polynomial kernel has parameter d (degree of polynomial)
+           - pk increases dimentians & d!
+           - in 1D pk finds relationship b/w every pair of observations
+           - Again we can find a good value of d using cross validation !
         - *Radial basis function Kernel* is also used , it finds SVC in ∞ dimensions
-        - weighted nearest neighbour model ?
-         - nearest neighbours have most influence 
+           - weighted nearest neighbour model ?
+           - nearest neighbours have most influence 
         * **Kernel Trick** = calculating higher dimensional relationships between pairs of data without actual transformation to higher dimensions.
-        * KT is the reason RDF is possible .
- 
-
+           * KT is the reason RDF is possible .
+---
+## CART
+Statement -> true or false -> makes a decision
+### Regression Trees
+Nummerical Data is a decison
+### Classification Trees
+- Categories are the end decisions
+- True = left
+- False = right
+- Branched are internal nodes
+- leaves are Impure if it contains mixtures of people
+- love soda does a better job predicting who loves ice or not than love popcorn.
+- [StatQuest](https://www.youtube.com/watch?v=_L39rN6gz7Y&list=PLblh5JKOoLUKAtDViTvRGFpphEc24M-QH)
+- Entropy , Info. Gain , gini impurity - quantify the impurity .
+- Total Gini Impurity (for a Node ?) = weighted average of GI of leaves (depends on no. of people on each leaf)
+- GI of leaf = 1 - (P(yes))^2 - (P(No))^2
+### numeric data in classification trees
+- first sort
+- then take average of adjacents !
+- then find GI of every number you have got in avg.s by taking LHS : < 14.5 & RHS: >14.5
+- now pick the node with lowest gini impurity !!
+### build tree 
+- put column with least GI at the top !
+- (no need of recalculating impurities for top)
+- split again on some parameter (column in data ) to reduce impurity !
+- GI is of the split !
+- now recalculate GI only on the data on that branch for both splits
+- for age only consider averages from the new data.
+- OUTPUT values of leaves are the majority of people in that leaf.
+- if only 1 guy reaches a leaf we have less confidence in prediction !
+- possible we have overfit , solutions : put limit on how trees grow by requiring >3 ppl per leaf
+- or let's say > k people per leaf
+- How do we decide k ? Again Cross Validation :joy:
+- 
+- **PRUNING**
 
 
 
