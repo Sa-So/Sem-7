@@ -31,19 +31,25 @@ The disadvantage of using Mode is that there may be more than one mode.
 ## Spread 
 - how data is dispersed 
 - Range / IQR / Standard Deviation / Variance are the most commonly used as measures.
-• Range = Max – Min
-• Inter Quartile Range (IQR) = Q3 – Q1
-• Standard Deviation (σ) = √(∑(x-μ)2 / n)
-• Variance = σ2
+1. Range = Max – Min
+2. Inter Quartile Range (IQR) = Q3 – Q1
+3. Standard Deviation (σ) = √(∑(x-μ)2 / n)
+4. Variance = σ2
 
 ## Shape
-• Symmetric – the part of the distribution that is on the left side of the median is same as the part of the distribution that is on the right side of the median
-• Left skewed – the left tail is longer than the right side
-• Right skewed – the right tail is longer than the left side
+1. Symmetric – the part of the distribution that is on the left side of the median is same as the part of the distribution that is on the right side of the median
+2. Left skewed – the left tail is longer than the right side
+3. Right skewed – the right tail is longer than the left side
 
 ## Outlier 
 – An outlier is an abnormal value
-• Keep the outlier based on judgement
-• Remove the outlier based on judgement
+1. Keep the outlier based on judgement
+2. Remove the outlier based on judgement
 
+# Probability Distributions Inferential Statistics through hypothesis tests
+
+1. hey
+1.1 po
+1.2 no
+1.3 hellow
 
