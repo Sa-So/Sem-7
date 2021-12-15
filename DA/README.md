@@ -49,7 +49,7 @@ The disadvantage of using Mode is that there may be more than one mode.
 # Probability Distributions Inferential Statistics through hypothesis tests
 
 1. hey
-1.1 po
-1.2 no
-1.3 hellow
+1.1. po
+1.2. no
+1.3. hellow
 
