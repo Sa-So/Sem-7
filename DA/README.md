@@ -48,8 +48,23 @@ The disadvantage of using Mode is that there may be more than one mode.
 
 # Probability Distributions Inferential Statistics through hypothesis tests
 
-1. hey
-1.1. po
-1.2. no
-1.3. hellow
+In Inferential statistics, we make an inference from a sample about the population. The main aim of inferential statistics is to draw some conclusions from the sample and generalise them for the population data
+
+## Advantages of Inferential Stats.
+- Making conclusions from a sample about the population
+- To conclude if a sample selected is statistically significant to the whole
+population or not
+- Comparing two models to find which one is more statistically significant as compared to the other.
+- In feature selection, whether adding or removing a variable helps in improving the model or not.
+
+## Probability
+ It is a measure of the chance of occurrence of a phenomenon. We will now discuss some terms which are very important in probability:
+* Random Experiment:Random experiment or statistical experiment is an experiment in which all the possible outcomes of the experiments are already known. The experiment can be repeated numerous times under identical or similar conditions.
+* Sample space: Sample space of a random experiment is the collection or set of all the possible outcomes of a random experiment.
+* Event: A subset of sample space is called an event.
+* Trial: Trial refers to a special type of experiment in which we have two types
+of possible outcomes: success or failure with varying Success probability.
+* Random Variable: A variable whose value is subject to variations due to randomness is called a random variable. A random variable is of two types: Discrete and Continuous variable. In a mathematical way, we can say that a
+real-valued function X: S -> R is called a random variable where S is probability space and R is a set of real numbers.
+
 
