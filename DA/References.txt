@@ -1,0 +1,5 @@
+1. Hastie, Trevor, et al. The elements of statistical learning. Vol. 2. No. 1. New York: springer,2009.
+2. Montgomery, Douglas C., and George C. Runger. Applied statistics and probability forengineers. John Wiley & Sons, 2010.
+3. Michael Berthold, David J. Hand, Intelligent Data Analysis, Springer, 2007.
+4. Anand Rajaraman and Jeffrey David Ullman, Mining of Massive
+Datasets, CambridgeUniversity Press, 2012.
