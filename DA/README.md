@@ -67,4 +67,19 @@ of possible outcomes: success or failure with varying Success probability.
 * Random Variable: A variable whose value is subject to variations due to randomness is called a random variable. A random variable is of two types: Discrete and Continuous variable. In a mathematical way, we can say that a
 real-valued function X: S -> R is called a random variable where S is probability space and R is a set of real numbers.
 
+## Prob. Dist.
+* A distribution is simply a collection of data or scores on a variable. Usually, these scores are arranged in order from ascending to descending and then they can be presented graphically.
+
+* The distribution provides a parameterized mathematical function which will calculate the probability of any individual observation from the sample space.
+
+*What is Data?*
+* Data is a collection of information (numbers, words, measurements, observations) about
+ facts, figures and statistics collected together for analysis. Example: Distribution
+ individuals in each group. How to Visualize Categorical Data: Bar Plot, Pie Chart and Pareto Chart.
+
+
+![*How to Visualize Numerical Data: Histogram, Line Plot and Scatter Plot*]()
+
+
+
 
