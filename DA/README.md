@@ -85,9 +85,10 @@ real-valued function X: S -> R is called a random variable where S is probabilit
 ### Bias 
 - is the inability to capture the true relationship.
 
----
 Squiggly line = overfit = large var = low bias
 Straight line = underfit = low var = high bias
+
+**Regularization , boosting and bagging** are used to find the sweet spot b/w simple and complex model .
 
 ---
 # SVMs
@@ -97,33 +98,33 @@ Straight line = underfit = low var = high bias
         * uses max margin i.e. divide the distance between 2 different classes observations !
         * not good if outliers ! (low bias but high var)
     * allow misclassifications - to make it unsensitive to outlier's
-     * Bias - variance tradeoff pretty much
-     * Now the distance between observations and threshold is called *Soft Margin*
-     * We use Cross Validation to decide how many misclassifications (& correct classif. ) to allow (inside soft margin)!
-     * It is called *Support Vector Classifier*
-     * Observations on the edge and inside soft margin are called support vectors
-     * when data is 2D SVC is a line ! (flat affine 1 D subspace)
-     * when data is 3D SVC is a plane !(which side of plane are the point on)
-     * 4D -> hyperplane (flat affine subspace)
-     * 1D line = 1D hyperplane
-     * SVC can handle overlapping classifications !
+        * Bias - variance tradeoff pretty much
+        * Now the distance between observations and threshold is called *Soft Margin*
+        * We use Cross Validation to decide how many misclassifications (& correct classif. ) to allow (inside soft margin)!
+        * It is called *Support Vector Classifier*
+        * Observations on the edge and inside soft margin are called support vectors
+        * when data is 2D SVC is a line ! (flat affine 1 D subspace)
+        * when data is 3D SVC is a plane !(which side of plane are the point on)
+        * 4D -> hyperplane (flat affine subspace)
+        * 1D line = 1D hyperplane
+        * SVC can handle overlapping classifications !
     * *SVM*
-     * for data with too much overlap and eg. dosage and patients which got cured
-     * they get cured when dosage is just right and not when high or low
-     * We add a y axis with dosage^2 when x-axis has dosage and then do what we did in SVC
-     1. start with data in low dimention
-     2. Move data in higher dimention
-     3. SVC!
-     - SVM's use kernel functions to systematically find SVC in higher dimentions
-     - Polynomial kernel has parameter d (degree of polynomial)
-     - pk increases dimentians & d!
-     - in 1D pk finds relationship b/w every pair of observations
-     - Again we can find a good value of d using cross validation !
-     - *Radial basis function Kernel* is also used , it finds SVC in ∞ dimensions
-     - weighted nearest neighbour model ?
-      - nearest neighbours have most influence 
-     * **Kernel Trick** = calculating higher dimensional relationships between pairs of data without actual transformation to higher dimensions.
-     * KT is the reason RDF is possible .
+        * for data with too much overlap and eg. dosage and patients which got cured
+        * they get cured when dosage is just right and not when high or low
+        * We add a y axis with dosage^2 when x-axis has dosage and then do what we did in SVC
+           1. start with data in low dimention
+           2. Move data in higher dimention
+           3. SVC!
+        - SVM's use kernel functions to systematically find SVC in higher dimentions
+        - Polynomial kernel has parameter d (degree of polynomial)
+        - pk increases dimentians & d!
+        - in 1D pk finds relationship b/w every pair of observations
+        - Again we can find a good value of d using cross validation !
+        - *Radial basis function Kernel* is also used , it finds SVC in ∞ dimensions
+        - weighted nearest neighbour model ?
+         - nearest neighbours have most influence 
+        * **Kernel Trick** = calculating higher dimensional relationships between pairs of data without actual transformation to higher dimensions.
+        * KT is the reason RDF is possible .
  
 
 
