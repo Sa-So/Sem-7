@@ -94,8 +94,8 @@ Straight line = underfit = low var = high bias
 ## Margin 
 * shortest distance between observations and threshold.
     * maximal marginal classifier 
-     * uses max margin i.e. divide the distance between 2 different classes observations !
-     * not good if outliers ! (low bias but high var)
+        * uses max margin i.e. divide the distance between 2 different classes observations !
+        * not good if outliers ! (low bias but high var)
     * allow misclassifications - to make it unsensitive to outlier's
      * Bias - variance tradeoff pretty much
      * Now the distance between observations and threshold is called *Soft Margin*
