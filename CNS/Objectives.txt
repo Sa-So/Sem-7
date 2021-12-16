@@ -1,0 +1,6 @@
+Pre Req : CN
+1. Understand the basic concept of Cryptography and Network Security, their mathematical models.
+2. To impart knowledge of major issues in network and computer system security, focusing mainly on threats from malicious software and To understand common attacks on computer networks and methods to detect and remediate such attacks.
+3. To study various issues in security of MANETS and study various attacks.
+4. To provide the students with the competences required for understanding various issues in security of Wireless Security Networks and also various attacks against security
+mechanism and routing.
