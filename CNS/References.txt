@@ -1,0 +1,6 @@
+
+1. P. Pfleeger, Shari Lawrence Pfleeger Charles: Security in Computing, PHI.
+2. William Stalling, Cryptography and Network Security, 3rd Edition. PHI New Delhi
+3. William Stalling, Network Security Essentials, 2nd Edition. PHI New Delhi
+4. Bruce Schneier, Niels Ferguson : Practical Cryptography, Wiley Dreamtech India Pvt.
+Ltd.
