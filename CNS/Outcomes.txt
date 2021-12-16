@@ -1,0 +1,8 @@
+
+1. Understand theory of fundamental cryptography, encryption and decryption algorithms,
+2. Build secure systems by use of block ciphers like AES, DES.
+3. To be familiar with network security designs using available secure solutions and
+advanced security issues and technologies.
+4. To develop basic security enhancements in MANETS.
+5. To know how authentication is implemented in wireless systems and understand
+authentication protocols and processes.
