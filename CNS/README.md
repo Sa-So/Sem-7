@@ -21,15 +21,15 @@ An attempt to spy or destroy computer systems or their associated information.
 ## Control
 - put measures in place to manage the identified threats/vulnerabilities.
 # MCQs
-- Ethics = set of rules for socially acceptable behaviour
+<!-- - Ethics = set of rules for socially acceptable behaviour -->
 - techniques used to prevent virus infection : IDS, Firewall, Patching program
 - Monitoring and logging tools are used for maintenance of a secure infrastructure
 - InfoSec is the practice that must be taken to protect valuable information from unauthorised destruction.
 - S/MIME : **Secure/Multipurpose Internet Mail Extensions**
 - The Kerberos protocol has Ticket granting server
 - **Pattern Matching** A process used by Intrusion Detection System that involves checking for a pattern to identify unauthorized activity.
-- Cyber Attack is an attempt to spy or destroy computer systems or their associated information.
-- The aim of authentication is to determine who the user is
+<!-- - Cyber Attack is an attempt to spy or destroy computer systems or their associated information. -->
+<!-- - The aim of authentication is to determine who the user is -->
 - The Repeated act of harassment or threatening behaviour is called as Cyber Stalking
 - DoS attack floods systems, servers, or networks with traffic
 - The illegal transmission of data from inside an organization to an external location is called as Data leakage
@@ -58,7 +58,7 @@ An attempt to spy or destroy computer systems or their associated information.
 - attacks that are launched to steal valuable information in the targeted networks - **passive**
 - The attack that aims to drain off limited resources in the mobile ad hoc nodes (e.g. the battery powers), by constantly makes them busy processing unnecessary packets **Sleep Deprivation**
 - Adversaries might interrupt the normal operations in the packet forwarding process by flooding the targeted destination nodes with huge unnecessary packets. **flooding attack**
-- the process of guaranteeing the identity of the messenger **integrity** ![doubt](google.com)
+- the process of guaranteeing the identity of the messenger **integrity** ![doubt](https://www.google.com)
 - authorization is the process that uses bonafide credential to be issued by the appropriate authority which will be mandatory to assign access rights to users, at different levels.
 - **Fabrication** Attacks performed by generating false routing information
 - Repudiation refers to the - attempted denial by a node involved in a communication
@@ -70,4 +70,16 @@ An attempt to spy or destroy computer systems or their associated information.
 - For injecting executable malicious code like virus or Trojan horse for web application hacking which language is used? **JavaScript**
 - Software piracy is an illegal reproduction and distribution for personal use or business. It comes under crime related to IPR infringement
 - Firewalls block udp traffic
+# nptel
+- receiver creates hash tag to check integrity
+- session symmetric key is used b/w 2 parties only once
+- Dig. Signature provides
+  - auth
+  - non- repudiation
+- Deffie Hellman key exchange protocol , if 2 parties are not auth then 
+  - MITM attack can harm 
+- goal of key dist centre is to reduce risk in exchanging keys 
+- when prime p is used in ElGamal sign & composite n used in RSA
+  - RSA sign is faster than elgamal
+- 
 
