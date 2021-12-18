@@ -81,5 +81,77 @@ An attempt to spy or destroy computer systems or their associated information.
 - goal of key dist centre is to reduce risk in exchanging keys 
 - when prime p is used in ElGamal sign & composite n used in RSA
   - RSA sign is faster than elgamal
-- 
-
+# Prev Year
+- Vernam Cipher 
+  - PT : RAMSWARUPK , Key : RANCHOBABA
+  - CT : **IAZUDOSUQK**
+- Shuffling letters = transposition ciphers
+- SUN , Ceaser Cipher , key = 2
+  - **UWP**
+- if system is not tested in scanning and gaining access phase malicious hacker can access
+- hacking is useful :
+  - Recover lost info.
+  - perform pen testing to strengthen Net. Sec
+  - put predicitive measures 
+- Key Table = 5x5 grid of alpha => **PlayFair Cipher**
+- Matrix operations
+  - Hill 
+  - PlayFair
+- employee training is not an example of physical sec
+- Data Reduncdancy is not a primary obj of cryptography (CIA is)
+- Ceaser Cipher key can be ann alpha
+- Stream Cipher the plain-text is processed 1-bit at a time & a series of actions is carried out on it for generating one bit of cipher-text.
+- Packet filtering firewalls work effectively in **very large complex** networks & are deployed on **routers**
+- **One-time pad** has piece of keyword that has the same length as that of the plaintext
+- Block Cipher : PlayFair
+- Trojan is not a type  of virus , (Polymorphic Boot Sector Functional are)
+- **PGP** email protocol
+- **extranet** is a net. that allows auth access from outside user
+- **IPSec** Protocol operates in transport mode & tunnel mode
+- **Certificate Authority** is entity for issuing digital certificates
+- **ESP** provides either auth/encryption or both at IP Level
+- **IPSec** defines **AH & ESP** protocols
+- **botnet** network of compromised devices
+- **DoS**
+  - Vulnerability 
+  - Bandwidth flooding
+  - Connection flooding 
+- WN is Infra less
+- Sensor nodes used in WSN monitors the environment in a particular area with the help of **onboard processor** 
+- **evaluation software** processes data received by WLAN access point
+- **radio node** is used to receive data produced by sensors and sends it to wlan access point 
+- **WSN** mainly use broadcast comm.
+- WSN monitor objects,area
+- WSN are more open to various security threats as unguided transmission medium is more open to security attacks than those of the guided transmission medium.
+- Sybil Attack a node can pretend to be more than one node using the identities of other legitimate nodes
+- Hello Flood
+  - Attacker with a high radio transmission range and processing power sends HELLO packets to a number of sensor nodes.
+- Worm Hole
+  - Attacker records the packets (or bits) at one location in the network and tunnels those to another location
+- Selective forwarding 
+  - DoS
+  - Neglect and Greed 
+  - Blind Letter Attack
+#4
+- packet sniffinbg happens over the network
+- prevent SQL => escape Queries
+- Imagine a social networking web app (like Twitter) that allows users to post short blurbs of text.
+  - Which type of exploit might be carried out by posting text that
+contains malicious code?
+  - Cross site scripting , SQL
+- Which malicious program cannot do anything until actions are taken to activate the file attached by the malware.
+  - virus
+- **PayLoad** is the part of malware such as worms or viruses which performs the malicious action; deleting data, sending spam or encrypting data
+#5
+- 1st Boot Sector virus = brain
+- proxy server is used to hide malicious activity on network
+# 6
+1. Suppose the Plain text message is “CLOUDS ARE HIGH” Random number sequence is 76,48,16,82,44,3,58,11,60,5,48,88,76,48,16,82,44,3,58,11,60 Generate cipher text using vernam cipher technique.
+2. Plain Text is “ÄES USES A MATRIX” Perform 4-columnar transposition. 3. Differentiate between vulnerability, Threats, Attacks and Control
+4. Suppose Plaintext is “SACHIN TENDULKAR IS A GREAT CRICKET PLAYER” Key is=PLAYFAIR EXAMPLE Convert this plain text into cipher text using Playfair cipher.
+5. Discuss in detail working of DES with neat and clean diagram.
+6. Discuss Key Management problem. Also explain Diffie-Hellman Algorithm.
+7. Distinguish among vulnerability, threat and control.
+8. Differentiate between confusion and diffusion.
+9. Encrypt the following message using mono-alphabetic substitution cipher with key =5. Plain-Text is: “I am a Hacker”.
+10. What are Computer criminals?
