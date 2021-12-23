@@ -1,0 +1,39 @@
+# unanswered questions
+
+- Operating Leverage ?
+  - contrib/EBIT
+  - EBIT/EBT
+  - EBIT/SALES
+  - EBIT/Contrib
+- If a firm is having fixed interest charges of Rs 60000 and performance dividend of Rs. 72000 and tax rate is 40% , the financial break even level of EBIT will be?
+  - 108,000
+  - 180,000
+  - 160,000
+  - 105,000
+- IRR ?
+  - rate at which discounted cash inflow is equal to the discounted cash outflow ?
+- NPV is not
+  - if 2 competeing projects are being considered ?
+- WACC ?
+  -  return earned & paid on a company's
+  -  min acceptable return on any average
+  -  cost of raising specific sources of funds in finna
+  -  None ?
+- Cost of equity ?
+  - net income available to shareholders * / - total market value of shares ? **Ans** : *
+- The amount of current assets that varies with seasonal req. is reffered as 
+  - **temporary working capital** ? 
+  - net
+  - perma
+  - gross
+- Debt financing is a cheaper source of finance because of
+  - **tax deductability of interest**
+- Earning available to equity shareholders divided by number of equity shares will 
+  - **EPS** 
+- In proper capital budgeting analysis we evaluate incremental
+  - **Cash Flows**
+- CoC of a firm is
+  - min RoR it must earn in its investment to keep its investors..
+- measure of business risk
+  - **operating leverage**
+-     
