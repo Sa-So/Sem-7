@@ -1,4 +1,4 @@
-# CE71
+<!-- Make a program which links dictionary / meanings / full forms of words used in this document ! -->
 
 ## S1
 - FM functions
@@ -38,7 +38,7 @@ funds from different sources are called?
 <!-- - A degree of combined leverage is the combination of financial leverage and operating leverage.It provides the combined effect of degree of operating leverage and financial leverage.  Combined leverage provide the % change in EPS against the % change in sales. -->
 - At indifference level of EBIT, different capital plans have same EPS
 - Financial breakeven level of EBIT is one at which EPS is **zero**
-- That personal leverage can replace corporate leverage MM model
+- That personal leverage can replace corporate leverage : **MM model**
 - **False** In NOI approach Ke is constant
 - According to NI approach , capital structure is relevent !! **D**
 - 'judicious use of leverage' is suggested by which approach **Traditonal**
@@ -82,7 +82,7 @@ always the same
 - The time period between the issue of a cheque and its receipt by the
 payee is called?
   - **Mail Time**
-- The amount of cheques deposited in banks but not yet cleared is called 
+- **D** The amount of cheques deposited in banks but not yet cleared is called 
   - **Receipt Float**  
 - If cash discount is offered to customers then which of the following would
 increase?
@@ -94,7 +94,7 @@ increase?
   - The credit evaluation
   - The credit control
   - **all of the above**
-- Operating cycle is a techniques of working capital managements
+- **Operating cycle is a technique of working capital management**
 - **not** a feature of current assets
   - **longer life**
   - liquidity
@@ -130,6 +130,7 @@ reinvested at project's rate of return?
   - Precautionary motive
   - Speculative motive
   - All 
+
 
 
 
