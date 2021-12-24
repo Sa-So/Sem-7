@@ -1,8 +1,8 @@
 # unanswered questions
-
+<!-- mostly false and alls lol -->
 - Operating Leverage ?
   - contrib/EBIT
-  - EBIT/EBT
+  - **EBIT/EBT**?
   - EBIT/SALES
   - EBIT/Contrib
 - If a firm is having fixed interest charges of Rs 60000 and performance dividend of Rs. 72000 and tax rate is 40% , the financial break even level of EBIT will be?
@@ -36,4 +36,65 @@
   - min RoR it must earn in its investment to keep its investors..
 - measure of business risk
   - **operating leverage**
--     
+- A critical assumption of NOI Net operating Income approach to valuation in
+  - **that debt and equity level remain unchanged**
+- Given sales Rs 100 million variable cost Rs. 40 M and fixed cost 40M
+  - **3** ??
+- Cost of insurance and taxes are included in **inventory carrying cost**
+- Working Capital
+  - Gross Working Capital is sum of all current assets
+  - net working cap. represents current assests - curr lia
+  - NWC can be -ve 
+  - **all**
+- No. of Years forcasted to recover original iinvestment is **payback period**
+- Cash flow that starts -ve then +ve then again +ve cash...
+  - **non normal cash flow(unconventional)**
+- Dividend Capitalization model **Gordon**
+- Market value of share is responsible for investment market
+- EBIT ? EPS = 0 Financial break even point
+- debt/equity **measure of financial leverage**
+- which dividend promises to pay shareholders at future date ?
+  - **scrip**
+  - cash
+  - stock
+  - property
+- the Time period b/w placing an order its receipts in stock is known as
+  - lead time
+- Inventory Control 
+  - economic order quantity has min total cost per order
+  - carrying cost increases with quantity per order
+  - ordering cost decreases with to size
+  - **all**
+- Normal ROI = 10%pa quarterly compounding
+  - 10.38% pa
+- Walter model : 100% dividend payout ration when r (rate of return earned by shareholders)
+  - **ke>r**
+- not related to walter model 
+  - constant R and CoC
+  - internal financing
+  - constant EPS or DPS
+  - **finite time** 
+- most expensive source of funds
+  - **new equity shares** 
+- Finance manager is accountable for 
+  - Earning capital assets
+  - Effective management of fund
+  - Arrangement of financial resources
+  - Proper utilization of fund
+- residual theory argues that dividend is a
+  - irrelevant decision ?
+- financially unlevered if firm has
+  - only external equity in its cap struct
+  - only owner equity 
+  - **both**
+- business risk is the risk to firms being unable to cover Fixed Operating Cost  
+- 25 lakh is value of firm EBIT = 3lakh 12% 9& debentures
+- Degree of total leverage can be applied in measuring change in EPS to a % change in Qty
+- MM div dec is irrelevant as value of firm is based on earning power of assets
+- lockbox system ?
+- relaization of cash from d
+- reversibility is a feature of ?
+- procuremment & effective
+- critical assumption of net oper that debt and equity level
+- residual theory argues that div. passive decision
+- 
