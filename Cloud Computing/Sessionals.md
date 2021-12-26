@@ -154,5 +154,61 @@
 - [ ] forking
 - [ ] reducing
 
+# 5
 
+### Which of the following service provider provides the least amount of built in security ?
+- [x] IaaS
+- [ ] PaaS
+- [ ] SaaS
+- [ ] All
+### Point out the correct statement.
+- [ ] Different types of cloud computing service models provide different levels of security services
+- [ ] Adapting your on-premises systems to a cloud model requires that you determine what security mechanisms are required and mapping those to controls that exist in your chosen cloud service provider
+- [ ] Data should be transferred and stored in an encrypted format for security purpose
+- [x] All of the mentioned
 
+### SLA negotiaitons
+- [ ] Logging 
+- [x] All
+- [ ] Regulatory Compliance
+- [ ] Auditing
+
+### Wrong ?
+- [ ] You can use proxy and brokerage services to separate clients from direct access to shared cloud storage
+- [ ] Any distributed application has a much greater attack surface than an application that is closely held on a Local Area Network
+- [x] Cloud computing doesn’t have vulnerabilities associated with Internet applications
+- [ ] All of the mentioned
+### Protecting Data ?
+- [ ] Auth
+- [x] All
+- [ ] Access Control
+- [ ] Auditing
+
+### Identity Management ?
+- [ ] controlling access to dtata in the cloud 
+- [ ] preventing unauth uses
+- [x] all
+- [ ] maintaining user roles
+
+### CSA ??
+- [x] Cloud Scurity alliance 
+- [ ] Cloud Storage Admin
+- [ ] Cloud Security Auth
+- [ ] CLoud Storage Auth
+### [D] SSO & Federation are types of ???
+- [x] Authentication Access
+- [ ] Auditing Access Controls
+- [ ] Authorization Control
+- [ ] NOTA
+
+### RBAC
+- [ ] Resp based audit control
+- [ ] Role based audit control
+- [x] Role based access control
+- [ ] Resp based access control 
+
+### Cloud Service Core Capabilities
+- [ ] Integrity
+- [x] All
+- [ ] Confidentiality
+- [ ] Availibility
