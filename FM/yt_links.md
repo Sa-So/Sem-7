@@ -24,8 +24,7 @@
 - [Gorden Model](https://www.youtube.com/watch?v=YxMn133sNFQ)
 - [M-M model](https://www.youtube.com/watch?v=StALD3fag04&t=101s)
 
-#4
-
+# 4
 
 - [Working capital meaning, need, determinants](https://www.youtube.com/watch?v=5IfQKbCxGCY&t=29s)
 - [Estimation of working capital-1](https://www.youtube.com/watch?v=QIpc0Ke0znA)
