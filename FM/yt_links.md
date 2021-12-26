@@ -1,13 +1,13 @@
 # 1
 
-What is FM
-Scope and finance functions
-Objectives of financial management Time value of money ( I know she’s cute) 
-Sources of long term finance
+- [What is FM](https://www.youtube.com/watch?v=z8F4JQe4GF0)
+- [Scope and finance functions](https://www.youtube.com/watch?v=1lQ9sKsrQRw)
+- [Objectives of financial management Time value of money](https://www.youtube.com/watch?v=O-xQtq60rGg)(I know she’s cute) 
+- [Sources of long term finance](https://www.youtube.com/watch?v=pCQ2jfi0KYQ)
 
 
 # 2
-- Investment decisions
+- [Investment decisions](https://www.youtube.com/watch?v=wg3BzDAcMHY&t=896s)
 - [Methods of capital budgeting](https://www.youtube.com/watch?v=CO8LDV2sO6M)
 - [Risk analysis](https://www.youtube.com/watch?v=A2Cnf9jdVq4)
 - [Cost of different source of raising capital](https://www.youtube.com/watch?v=VGN_IonxroE)
