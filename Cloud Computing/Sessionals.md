@@ -51,3 +51,49 @@
 - [ ] 409
 - [ ] 400
 - [ ] 401
+
+# 2
+### What facet of CC helps gaurd against downtime and determine costs
+- [ ] VPN
+- [ ] Bandwidth Fee
+- [ ] API
+- [x] SLA (Service Level Agreement)
+### The ____ Cloud Interface is operated for exclusive use of an org.(Private is the ans)
+- [ ] None
+- [ ] Need not contain any func.
+- [ ] Needs input data
+- [ ] Must Contain at least one function
+### The ________ cloud infrastructure is operated for the exclusive use of an organization.
+a) Public
+b) Private
+c) Community
+d) All of the mentioned
+
+### VMs and VStorage Vinfra and other H/W assets
+- IaaS
+### Azure & Cloudera ??
+### Phase involving selecting a cloud provider based on the SLA which defines the level of service the provider receives
+- [ ] Maintenence and Technical Service
+- [ ] NOTA
+- [ ] Both A & B
+- [x] Selecting Cloud Computing Provider
+### The Force.com & windows Azure are eg. of ?
+- **PaaS**
+### Utility computing is base don >
+- [ ] Grid Computing model
+- [ ] virtual isolation model
+- [x] Pay per use model
+- [ ] SOA model
+### Which
+- [ ]
+- [ ] s
+- [ ] s
+- [ ] s
+- [ ] s
+- [ ] s
+- [ ] s
+- [ ] s
+- [ ] s
+- [ ] s
+- [ ] s
+
