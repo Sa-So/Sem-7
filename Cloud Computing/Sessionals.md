@@ -64,13 +64,9 @@
 - [ ] Needs input data
 - [ ] Must Contain at least one function
 ### The ________ cloud infrastructure is operated for the exclusive use of an organization.
-a) Public
-b) Private
-c) Community
-d) All of the mentioned
-
+- [x] Private
 ### VMs and VStorage Vinfra and other H/W assets
-- IaaS
+- [x] IaaS
 ### Azure & Cloudera ??
 ### Phase involving selecting a cloud provider based on the SLA which defines the level of service the provider receives
 - [ ] Maintenence and Technical Service
@@ -84,16 +80,30 @@ d) All of the mentioned
 - [ ] virtual isolation model
 - [x] Pay per use model
 - [ ] SOA model
-### Which
-- [ ]
-- [ ] s
-- [ ] s
-- [ ] s
-- [ ] s
-- [ ] s
-- [ ] s
-- [ ] s
-- [ ] s
-- [ ] s
-- [ ] s
+# 3
+
+### An enterprise need s highly controlled storage and access to their databases as well as managing 
+### the infra for web front ends and other apps 
+### They have large existing IT infra and they are continually expanding the capabilitites 
+### which CC model satisfy their current needs and enable them to reduce the cost
+
+- [x] Hybrid Cloud
+- [ ] Internal CLoud
+- [ ] Private Cloud
+- [ ] Public Cloud
+### Cloud provider manages app upgrades & infra so it's (web conf)
+- [x] SaaS
+### ___ is an OS or app env i.e. installed as software which reproduces dedicated hardware virtually
+- [ ] Virtual Cloud
+- [ ] NOT
+- [x] Virtual MAchine
+- [ ] Virtual Computing
+
+- [x] s
+- [x] s
+- [x] s
+- [x] s
+- [x] s
+- [x] s
+- [x] s
 
