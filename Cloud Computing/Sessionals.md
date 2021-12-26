@@ -212,3 +212,54 @@
 - [x] All
 - [ ] Confidentiality
 - [ ] Availibility
+
+# 6
+### Type 2 VM ?
+- [x] Xen
+- [ ] VirtualLogix VLX
+- [ ] LynxSecure
+- [ ] VMware ESX
+
+### Storage / Maanages / Protects the data as a part of Business
+### what should the company do to create business value from data
+
+- [ ] Virtulized app infra
+- [ ] Virtulized end user infra
+- [x] Virtualized info infra
+- [ ] Create a virtualized server infra
+
+### Self managing systems 
+- [ ] Autonomic computing
+### Single Sign on is a mechanism that propagates the auth and authorization info of Cloud service consumer
+### across multiple cloud services
+---
+### Hypervisor allocates resources
+---
+### Load balancing can be used in case of high traffic on some time
+---
+### worng
+- [ ] Priv clouds may be either on or off premises
+- [ ] NOTA
+- [x] Public Cloud may be managed by constituent org. or by third party
+- [ ] A community cloud may be managed by the constituent org. or by 3rd party
+
+### large infra aaS provide wants to allow users to provision new server capacity from a variety of diff
+### interface tech. which web tech. should the service provider use to build an interface users can use
+- [ ] CLI interface
+- [ ] Remote API
+- [ ] ML RPC
+- [ ] HTTP REST API
+### which concept alligns business and it assets help provide flexible IT capacity 
+### RT alloc of resources in line with demand from business processes
+- [ ] Virtualization
+- [ ] Automated management of resources
+- [x] Dynamic Infra
+- [ ] Elasticity
+
+### Obtain under contract from vendor ???
+- [ ] PoS
+- [x] QoS
+- [ ] SoS
+- [ ] All
+
+
