@@ -99,11 +99,60 @@
 - [x] Virtual MAchine
 - [ ] Virtual Computing
 
-- [x] s
-- [x] s
-- [x] s
-- [x] s
-- [x] s
-- [x] s
-- [x] s
+# 4 
+### no. of maps in map reduce is usually driven by the total size of 
+- [x] Input
+- [ ] Output
+- [ ] Task
+- [ ] NOTA
+
+### Correct ?
+- [ ] Moving Computation is expensive than moving Data
+- [ ] NOTA
+- [ ] When the processing is done on the data algorithm is moved across the action nodes rather than data to the algo
+- [x] Data locality means movement of algo to the data instead of data to the algo
+
+### During start up the ___ loads the file system state from the fsimage and the edits log file
+- [ ] NOTM
+- [ ] DataNode
+- [x] NameNode
+- [ ] Action Node
+### A __ serves as the master and there is only on e namenode per cluster
+- [x] NameNode
+- [ ] Data block
+- [ ] Replication
+- [ ] Data Node
+### The daemons associated with the MapReduce  phase 
+- [x] job-tracker
+- [ ] map-tracker
+- [ ] reduce-tracker
+- [ ] all
+
+### GFS (Google File System) supports followiing operations 
+- [x] read , write , open , close
+- [ ] R E Make Del
+- [ ] Snap rem del
+- [ ] update , add, read ,write
+### In GFS files are divided in ___ chunks 
+- [x] Fixed Size
+- [ ] Both
+- [ ] Variable Size
+- [ ] None
+### To kepp GFS highly available there are 2 strategies namely
+- [ ] Master Replication, Data Integrity
+- [ ] Fast Recovery , Garbage collection
+- [x] Fast Recovery , Chunk Replication
+- [ ] NOT
+### The master in GFS monitors chunkserver status using regular ___ messages
+- [ ] StayAlive
+- [ ] Status
+- [ ] KeepAlive
+- [x] HeartBeat
+### O/P of mapper is first written on the local disk for sorting and ___ process ?
+- [ ] secondary sorting
+- [x] shufflinf
+- [ ] forking
+- [ ] reducing
+
+
 
