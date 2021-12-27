@@ -1,0 +1,84 @@
+### The ___ is the foundation of the web service stack 
+- [x] Network Layer
+### distributed app arch. that partition tasks or workloads b/w equally privileged participants 
+- p2p model
+- b/w providers of a resource or serveice and service requesters
+  - client-server model
+- in _ computing computer nodes can be homogenous as well as heterogeneous
+  - Grid
+- Computers in a ____ are dedicated to the same work and perform no other task 
+  - Cluster
+- 3 disadvantages of SOA
+  - Complex Service Agreement
+  - High investment
+  - High overload
+- ___ is a software arch which connects all the services together over a bus like infra
+  - Enterprise Service bus
+- __ is the maintainer of the service and the org that makes available one or more services for other to use
+  - Service provider
+# 2
+- priveleged guest OS of Xen arch
+  - Domain 0
+- Hypervisor implements
+  - Full Virtualization 
+- ___ replaces nonvirtualizable instructions with hyper calls that communicate directly with the Hypervisor on VMM
+  - Para virtualization 
+- ___ is also known as process level virtualization
+  - Application-level 
+- EPT in virtual memory virtualization stands for ___
+  - Extended page table
+- Intel offers ___ as a hardware support for process virtualization
+  - VT-x
+- In _________, a virtualization software layer is built between the host OS 1/1 and guest OS
+  - Host based virtualization 
+- BIRD is a tool that supports _________ level virtualization
+  - Instruction set arch
+- ___ is the number of implementation levels of virtualization  
+  - 5
+- key idea of  ___ is to harness the rich resource of a multicore processor.
+  - SelfVirtualization - I/O
+# 3
+- EC2
+  - Elastic Compute Cloud
+- Private Cloud
+  - premits only auth users providing org greater control over data and security
+- Security as a service
+  - Location as a service
+- in intercloud arch __ acts as a market maker for bringing together service producers and consumers
+  - Cloud Exchange (CEx)
+- GAE supports 
+  - Java and Python
+- ___ is used for dist app lock services in GAE
+  - Chubby
+- Namenode component of HDFS regulates client's access to files
+- In Map-Reduce the task of __________ phase is to consolidate relevant 1/1 records together.
+  - shuffling
+- In HDFS _________ perform read-write operations on the file systems, as1/1 per client request. 
+  - Datsnodes
+- In GFS _________operation provides the ability for applications to get 1/1 resources and communicate with other hosts over the Internet using
+HTTP and HTTPS requests
+  - URL fetch
+- Google SDC 
+  - Secure Data Connection
+- HDFS is designed on ___ arch paradigm 
+  - Master Slave
+-  in Google App Engine (GAE) allows the application to serve 1/1 large sized data objects
+  - BlobStore
+- It is duty of a _________ to periodically send heartbeat signals to job 1/1 tracker in order to update its current status.
+  - Task Tracker
+- GFS contains chunk server
+- Splitting Mapping Shuffling Reducing
+# 5
+- Para virtualization replaces nonvirtualizable instructions with hyper calls that 1/1 communicate directly with the hypervisor or VMM
+- NameNode component of HDFS regulates client's access to files.
+- Domain 0 is a privileged guest OS of Xen architecture.
+- In Host based virt, a virtualization software layer is built between the host OS 1/1 and guest OS 
+- Datsnodes perform read write
+- In this type of cloud, an organization rents cloud services from cloud 1/1 providers on demand basis.
+  - Public
+  - EPT = Expanded page table
+  - Cloud Servcie = 
+  - Cluster same work perform no other task
+  - Cloud Exchane (CEx) intercloud arch this acts as a market maker
+  - 
+-  
