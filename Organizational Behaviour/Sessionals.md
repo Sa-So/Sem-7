@@ -318,5 +318,31 @@ trying.
 - [ ] honesty
 
 # 5
+### 10. The collection of values, expectations, and practices that guide and inform the actions of all team members is termed as?
+- [x] organization culture
+- [ ] org. design
+- [ ] org. climate
+- [ ] org. change
 
-# 6
+### 9. The concept defining actions in which a company or business alters a major component of its organization, such as its culture, the underlying technologies or infrastructure it uses to operate, or its internal processes is called?
+- [ ] org. culture
+- [ ] org. design
+- [ ] org. climate
+- [x] org. change
+
+### 8. A barometer for judging the employee sentiment about their employers’ policies and practices is known as?
+- [ ] org. culture
+- [ ] org. design
+- [x] org. climate
+- [ ] org. change
+
+###
+- [ ] org. culture
+- [ ] org. design
+- [ ] org. climate
+- [x] org. change
+- [ ] org. culture
+- [ ] org. design
+- [ ] org. climate
+- [x] org. change
+
