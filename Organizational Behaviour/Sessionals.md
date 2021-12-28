@@ -45,38 +45,39 @@
 ### What is the last step in planning process?
 - [ ] Real point of decision making
 - [ ] Evaluating the alternatives
-- [ ] To make derivative plans
+- [x] To make derivative plans
 - [ ] To decide the planning period
 ### Identify the process that initiates implementation of plans by clarifying jobs, working relationships and effectively deploying resources for attainment of identified and desired results.
 - [ ] ORGANIZING
-- [ ] STAFFING
+- [x] STAFFING
 - [ ] DIRECTING
 - [ ] CONTROLLING
 ### Mangement function provides +ve and dynamic leadership 
 - [ ] ORGANIZING
 - [ ] STAFFING
-- [ ] DIRECTING
+- [x] DIRECTING
 - [ ] CONTROLLING
 ### First step in control process ?
-- [ ] Establish Standards of performance
+- [x] Establish Standards of performance
 - [ ] Measure Actual Performance
 - [ ] Compare Performance to Standards:
 - [ ] Take Corrective Action
 ### MIS Full Form
 - [ ] Management Internal System
-- [ ] Management Information system
+- [x] Management Information system
 - [ ] Multinational Influential System
 - [ ] none of the above 
 ### y Businesses need info ? 
 - [ ] Decision making
 - [ ] problem solving
 - [ ] control
-- [ ] all
+- [x] all
 ### set of components that work together to achieve a common goal is known as
-- [ ] system
+- [x] system
 - [ ] MIS
 - [ ] management
 - [ ] none
+
 
 
 
