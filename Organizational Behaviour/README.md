@@ -1,4 +1,7 @@
-## CODE: HSMC-701 (I)
-## SUBJECT NAME: MANAGEMENT-I (ORGANIZATIONAL BEHAVIOUR)
-## Credits : 3
-### 3 L per week
+### About
+- CODE: HSMC-701 (I)
+- SUBJECT NAME: MANAGEMENT-I (ORGANIZATIONAL BEHAVIOUR)
+- Credits : 3
+- L per week
+### Prev Year
+- Idk
