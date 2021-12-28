@@ -83,48 +83,48 @@
 
 ### Stand-alone system that has no contact with other systems is termed as:
 - [ ] open system
-- [ ] closed system
+- [x] closed system
 - [ ] subsystem
 - [ ] system
 ### A "given," or fact; a number, a statement, or a picture is termed as:
-- [ ] data
+- [x] data
 - [ ] info
 - [ ] system
-- [ ] sunsystem
+- [ ] subsystem
 ### Data after manipulation refers to
 - [ ] system 
 - [ ] subsystem
-- [ ] info
+- [x] info
 - [ ] none
 ### component of info system
 - [ ] Hardware
 - [ ] system
 - [ ] people
-- [ ] all
+- [x] all
 ### order of data processing ?
-- [ ] Input, data processing, output, storage
+- [x] Input, data processing, output, storage
 - [ ] data processing, output, storage, input
 - [ ] output, storage, Input, data processing
 - [ ] data processing, output, Input, storage
 ### The code of moral principles and values that govern the behaviors of a person or group with respect to what is right or wrong is termed as:
 - [ ] moral behaviour
-- [ ] ethics
+- [x] ethics
 - [ ] principles
 - [ ] values
 ###  A situation arises when all alternative choices or behaviors have been deemed undesirable because of potentially negative ethical consequences, making it difficult to distinguish right from wrong. Name the term. 
 - [ ] ethics
-- [ ] ethical dilemma
+- [x] ethical dilemma
 - [ ] social responsibility
 - [ ] morals
 ### Moral behaviors produce the greatest good for the greatest number. Identify the concept.
-- [ ] Utilitarian Approach
+- [x] Utilitarian Approach
 - [ ] Individualism Approach
 - [ ] Moral-Rights Approach
 - [ ] Justice Approach
 
 ### Acts are moral when they promote the individual's best long-term interests. Identify the concept.
 - [ ] Utilitarian Approach
-- [ ] Individualism Approach
+- [x] Individualism Approach
 - [ ] Moral-Rights Approach
 - [ ] Justice Approach
 
@@ -132,21 +132,21 @@
 - [ ] Free consent
 - [ ] Privacy
 - [ ] Conscience
-- [ ] Groupism
+- [x] Groupism
 ### Management's obligation to make choices and take actions that will contribute to the welfare and interests of society as well as to the welfare and interests of the organization. Identify the phenomenon.
 - [ ] Ethics
-- [ ] Social Responsibility
+- [x] Social Responsibility
 - [ ] ethical dilemma
 - [ ] principles
 
 ### Problems exist when some1 or something is not performing as expected . comment 
-- [ ] true
+- [x] true
 - [ ] false
 - [ ] hypothetical
 - [ ] none
 ### 1st step in probleme solving process ?
 - [ ] evaluate the results
-- [ ] identify the problem
+- [x] identify the problem
 - [ ] explore info
 - [ ] build and test the idea
 ### Identify the way of solving problems through repeated, varied
@@ -154,13 +154,13 @@ attempts which are continued until success, or until the agent stops
 trying.
 - [ ] fishbone diagra,
 - [ ] analogies
-- [ ] trial and error
+- [x] trial and error
 - [ ] decision making
 
 ### fishbone dia
 - [ ] ishiwaka 
 - [ ] cause and effect
-- [ ] both a and b
+- [x] both a and b
 - [ ] analogies
 
 
