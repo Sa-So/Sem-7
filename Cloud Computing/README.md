@@ -1,3 +1,17 @@
+# ref
+- [ttp](https://www.tutorialspoint.com/hadoop/pdf/hadoop_mock_test_iv.pdf)
+- [gsearch](https://www.google.com/search?q=iam+meaning&rlz=1C5CHFA_enIN873IN874&oq=IAM+mea&aqs=chrome.1.69i57j0i512l9.2206j0j7&sourceid=chrome&ie=UTF-8)
+- [nptel](https://nptel.ac.in/content/storage2/courses/downloads_new/106106168/Assignment-7solution.pdf)
+- [Computerphile](https://www.youtube.com/user/Computerphile/playlists)
+- [sanfoundry1](https://www.sanfoundry.com/hadoop-mapreduce-questions-answers/)
+- [sanfoundary2](https://www.sanfoundry.com/cloud-computing-questions-answers-cloud-security/)
+- https://www.sanfoundry.com/cloud-computing-interview-questions-answers/
+- data localization
+- SOAP
+- SOA
+- [Ease engg YT](https://www.youtube.com/playlist?list=PLV8vIYTIdSnaKSiSGvJf2QquSN4lEzGob)
+- 
+
 # prev year ques
 ### CSP decides to close its business due to legal litigation which grc doc would safegaurd the interest of its clients ?
 - [x] Service Level Agreement
