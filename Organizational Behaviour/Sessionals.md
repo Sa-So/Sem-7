@@ -16,7 +16,7 @@
 - [ ] Louis E Boone & David L Kurtz
 - [ ] Mary Parker Foilet
 - [ ] Fredrick Taylor
-- [ ] All
+- [x] All
 ### Not a char. of management ?
 - [ ] Management is an organized and group activity
 - [ ] Management principles are universal in nature
@@ -42,7 +42,41 @@
 - [ ] program
 - [ ] procedure
 - [ ] strategies
-### 
+### What is the last step in planning process?
+- [ ] Real point of decision making
+- [ ] Evaluating the alternatives
+- [ ] To make derivative plans
+- [ ] To decide the planning period
+### Identify the process that initiates implementation of plans by clarifying jobs, working relationships and effectively deploying resources for attainment of identified and desired results.
+- [ ] ORGANIZING
+- [ ] STAFFING
+- [ ] DIRECTING
+- [ ] CONTROLLING
+### Mangement function provides +ve and dynamic leadership 
+- [ ] ORGANIZING
+- [ ] STAFFING
+- [ ] DIRECTING
+- [ ] CONTROLLING
+### First step in control process ?
+- [ ] Establish Standards of performance
+- [ ] Measure Actual Performance
+- [ ] Compare Performance to Standards:
+- [ ] Take Corrective Action
+### MIS Full Form
+- [ ] Management Internal System
+- [ ] Management Information system
+- [ ] Multinational Influential System
+- [ ] none of the above 
+### y Businesses need info ? 
+- [ ] Decision making
+- [ ] problem solving
+- [ ] control
+- [ ] all
+### set of components that work together to achieve a common goal is known as
+- [ ] system
+- [ ] MIS
+- [ ] management
+- [ ] none
 
 
 
