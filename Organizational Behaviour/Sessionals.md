@@ -236,5 +236,87 @@ trying.
 - [ ] none of the above
  
 # 4
+### The ability to develop a vision that motivates others to move with a passion towards a common goal is known as ?
+- [ ] management
+- [x] leadership
+- [ ] hierarchy
+- [ ] organizational culture
+### not attributes of a leader
+- [ ] integrity
+- [ ] honesty
+- [x] betrayal
+- [ ] passion
+### Identify ythe attribute that conveys maturity , respect for your followers, compassion a fine sense of humor , and a love of humanity
+- [ ] dedication
+- [x] charisma
+- [ ] listening
+- [ ] risk
+### Identify the characteristics of a curious leader?
+- [ ] they are learners
+- [ ] They wonder about every aspect of their charge.
+- [ ] They find out what they need to know in order to pursue their goals.
+- [x] all of the above
+### Q5. Identify the approach for providing the right way to the team members, implementing planning strategies and motivating people.
+- [x] leadership styles
+- [ ] organizational strategies
+- [ ] management perspectives
+- [ ] management thoughts
+### Q6. Effective leadership is not about making speeches or being liked; leadership is defined by results not attributes. Comment
+- [x] true
+- [ ] false
+- [ ] abiguous
+- [ ] hypothetical
+### 3 types of leadership styles
+- [x] autocratic, democratic and laissez faire
+- [ ] autocratic, military and laissez faire
+- [ ] autocratic, democratic and freedom
+- [ ] demonstrative, autocratic and laissez faire
+
+### Conflict management and resolution is a challenge that managers face in the corporate world . Commment 
+- [x] true
+- [ ] false
+- [ ] ambiguous
+- [ ] hypo
+### Friction b/w indi due to diff of opinions , ideas , beliefs , values , need  or objectives is defined as ?
+- [ ] corporation 
+- [ ] mismanangement
+- [x] conflict
+- [ ] leadership
+### types of conflict ?
+- [x] intrapersonal, interpersonal, functional and intergroup
+- [ ] intrapersonal, functional and intergroup
+- [ ] intrapersonal, intragroup, functional and intergroup
+- [ ] intragroup, functional and intergroup
+
+### The strengths of bonds between group members is termed as?
+- [ ] work teams
+- [x] group cohesion
+- [ ] team building
+- [ ] conflict management
+
+### Team building process ?
+- [ ] goal setting
+- [ ] role definition
+- [ ] problem solving
+- [x] all
+
+### Which does not comprise of -ve effects of conflicts
+- [ ] reduces productivity
+- [ ] delays decision-making process
+- [x] both a and b
+- [ ] improves group cohesiveness
+
+### Why does conflict arise ?
+- [ ] no 2 ppl are alike
+- [ ] diff ideologies
+- [ ] poor comm channels
+- [x] all
+### Effective leaders know what they want to do, and have the strength of character to pursue their objectives in the face of opposition and in spite of failures. The effective leader establishes achievable goals. This statement is in context with which attribute of a leader?
+- [ ] passion
+- [x] guiding vision
+- [ ] integrity
+- [ ] honesty
+
 # 5
+
 # 6
