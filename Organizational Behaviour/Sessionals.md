@@ -175,62 +175,62 @@ trying.
 - [ ] To learn about yourself and others 
 - [ ] how many org u encounter work
 - [ ] to become familiar with team work
-- [ ] all
+- [x] all
 
 ### Challenges faced at the workplace at Org. level
 - [ ] Productivity
 - [ ] dev effective employees
 - [ ] global competetion
-- [ ] all
+- [x] all
 
 ### Workplace challenge at group level ?
 - [ ] Job Satisfaction
 - [ ] Empowerment
-- [ ] Workforce Diversity
+- [x] Workforce Diversity
 - [ ] Behaving ethically
 
 ### any influence that triggers , directs or maintains behaviour is termed as ?
 - [ ] Job satisfaction
 - [ ] org justice
-- [ ] motivation
+- [x] motivation
 - [ ] empowerment
 ### What are the factors discussed in herzberg's theory ?
-- [ ] Motivators and hygiene factors
+- [x] Motivators and hygiene factors
 - [ ] Growth, relatedness and existence
 - [ ] growth, relatedness and motivators
 - [ ] hygiene factors
 ### order of needs in maslow's theory ?
 - [ ] Physiological, Esteem, Self-Actualization, Affiliation, Security
-- [ ] Physiological, Security, Affiliation, Esteem, Self-Actualization
+- [x] Physiological, Security, Affiliation, Esteem, Self-Actualization
 - [ ] Physiological, Esteem, Security, Affiliation, self-Actualization
 - [ ] Self-Actualization, Affiliation, Security, Physiological, Esteem
 
 ### 8. Which of the following are included in McClelland's need theory?
-- [ ] Need for achievement , Need for power , need for affiliation
+- [x] Need for achievement , Need for power , need for affiliation
 - [ ] Physiological, Esteem, Security, Affiliation, self-Actualization
 - [ ] Achievement
 - [ ] growth, relatedness and existence
 
 ### Assignment of specific moderately difficult goals and providing feedback will provide motivation to work. This statement is written in context to which concept?
 - [ ] equity theory 
-- [ ] goal setting theory
+- [x] goal setting theory
 - [ ] reinforcement theory
 - [ ] expectancy theory
 
-### Which theory combines goal setting and reinforcement theories? 
+### Which theory combines goal setting and *reinforcement theories* ? 
 - [ ] equity theory
 - [ ] process theory
-- [ ] expectency theory
+- [x] expectency theory
 - [ ] herzberg's theory
 
 ### Stressors ?
 - [ ] Situations, activities, and relationships that cause ‘trauma’ to one’s physical self
-- [ ] Situations, activities, and relationships that cause ‘trauma’ to one’s physical, emotional, or psychological self 
+- [x] Situations, activities, and relationships that cause ‘trauma’ to one’s physical, emotional, or psychological self 
 - [ ] Situations, activities, and relationships that cause ‘trauma’ to one’s emotional or psychological self
 - [ ] Situations, activities, and relationships that cause ‘trauma’ to one’s psychological self
 
 ### What are the three types of justice mentioned in the justice theory of motivation?
-- [ ] Procedural Justice, Distributive Justice, Interactional Justice
+- [x] Procedural Justice, Distributive Justice, **Interactional Justice**
 - [ ] Procedural Justice, Distributive Justice, organizational justice
 - [ ] Distributive Justice, Interactional Justice, management justice
 - [ ] none of the above
